@@ -1,0 +1,5 @@
+{
+  "name": "TruthLens",
+  "description": "A full-stack fake news detection system using AI to analyze headlines and articles for credibility.",
+  "requestFramePermissions": []
+}
